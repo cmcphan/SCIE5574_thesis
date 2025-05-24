@@ -1,0 +1,28 @@
+{
+    "id": "C1D173A5",
+    "path": "/group/ll005/cmcphan/thesis_r/data_wrangling.R",
+    "project_path": "data_wrangling.R",
+    "type": "r_source",
+    "hash": "3063923477",
+    "contents": "",
+    "dirty": false,
+    "created": 1728894383542.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "disableDependencyDiscovery": "1",
+        "cursorPosition": "118,0",
+        "scrollLine": "90",
+        "ignored_words": "Unabbreviated\n"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1740364325,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1740364325632,
+    "read_only": false,
+    "read_only_alternatives": []
+}
